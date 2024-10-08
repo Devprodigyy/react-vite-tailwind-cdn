@@ -1,0 +1,14 @@
+Go to tailwind website
+
+For CDN
+just copy script and paste it just above script.js
+
+-----------------------------
+
+For Producation Level
+
+Go to PostCSS
+npm install -D tailwindcss postcss autoprefixer vite
+npx tailwindcss init -p (for postcss.config.js)
+
+follow further Instructions ✅

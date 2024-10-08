@@ -1,0 +1,57 @@
+YOU CAN ALSO USE REACT USING CDN LINKS
+
+go to google and search for react js cdn 
+copy first to links and paste just above your script.js
+
+
+-----------------------------------------------------------
+
+React Js Installation through Command Prompt. 
+
+open cmd prompt. 
+Write cd desktop
+
+go to vite website
+get started and scroll down
+copy npm create vite@latest and paste in cmd
+enter Project name
+and follow the instruction give below
+(choose react and javascript. using your arrow button of keyboard)
+
+follow the and instruction 
+and last live will go in terminal of vs code (npm run dev) ✅
+
+-----------------------------
+
+To install tailiwnd 
+go to tailwind website .. go for framework guides
+choose vite 
+follow the instruction ✅
+
+
+Note : you need content like 👇
+
+content: [
+    "./index.html",
+    "./src/**/*.{js,ts,jsx,tsx}",
+  ],
+
+
+put this in your src/index.css   // extra :  you can also add this in your app.css
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+--------------------------------------------
+
+
+FOR ADDING CDN
+ 
+You can put your CDNs like regular : (In Index.html)
+
+and you can add code for the CDN in src/app.jsx
+
+
+⚠ Try to install npm packages of library's
